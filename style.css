@@ -1,0 +1,29 @@
+header {
+  height: 80px;
+  background: purple;
+  text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+body {
+  background: lightblue;
+}
+
+img {
+  height: 110px;
+  border: 2px solid green;
+  float: right;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+li {
+  color: blue;
+}
